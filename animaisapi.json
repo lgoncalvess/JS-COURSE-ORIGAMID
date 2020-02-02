@@ -1,0 +1,18 @@
+[
+    {
+        "especie": "lobo",
+        "total": 431
+    },
+    {
+        "especie": "raposa",
+        "total": 211
+    },
+    {
+        "especie": "urso",
+        "total": 111
+    },
+    {
+        "especie": "esquilo",
+        "total": 342
+    }
+]
